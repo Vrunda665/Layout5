@@ -1,0 +1,178 @@
+body{
+    margin:0px;
+    background-color: rgb(60, 59, 59);
+    color: white;
+
+}
+.layout{
+    border-left: 5px solid white;
+    
+}
+a{
+    text-decoration: none;
+}
+#bg{
+    height: 110%;
+    width: 85%;
+    position: absolute;
+    margin-left: 15%;
+    padding: 0%;
+}
+.head{
+    border-top: 5px solid white;
+    position: absolute;
+    padding-top:-2%;
+    margin-left: 4%;
+
+}
+.head .bi{
+    height: 150%;
+    width: 65%;
+    padding-top: 2%;
+    background-color: rgb(255, 162, 0 , .70);
+}
+.head .bi h2{
+    padding-left: 8%;
+    border-top: 5px solid white;
+    width: 10%;
+    padding-top: 1%;
+    font-size: 80px;
+    font-weight: 800;
+}
+.head .bi h6{
+    padding-left: 15%;
+    width: 10%;
+    font-size: 22px;
+    font-weight: 600;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+.head .bi p{
+    padding-left:10%;
+    font-size: 18px;
+    text-align: justify;
+    padding-right: 10%;
+}
+.head .logos{
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 4%;
+}
+.head .logos img{
+    height: 100px;
+    width: 120px;
+}
+.head .bi h1{
+    font-size: 100px;
+    padding-left: 10%;
+    font-weight: 800;
+    padding-top: 17%;
+}
+.head .bi h3{
+    font-size: 60px;
+    padding-left: 10%;
+    font-weight: 500;
+}
+.head .bi h5{
+    font-size: 25px;
+    padding-left: 10%;
+    font-weight: 600;
+    padding-bottom: 15%;
+}
+.trend{
+    width: 8%;
+    height: 70%;
+    position: absolute;
+    margin-left: 85%;
+    margin-top: 5%;
+    padding: 2%;
+    background-color: rgb(255, 162, 0 , .70);
+    border: 6px solid white;
+}
+.trend h2{
+    font-size: 50px;
+    font-weight: 800;
+}
+.A{
+    position: absolute;
+    margin-left: 50%;
+    width: 50%;
+    padding-top: 10%;
+    background-color: rgb(195, 254, 235 , 0.70);
+    margin-top: 40%;    
+}
+.A h1{
+    text-align: right;
+    padding-right: 15%;
+    font-size: 100px;
+    font-weight: 800;
+}
+.A p{
+    text-align: justify;
+    padding-right: 15%;
+    font-size: 18px;
+    padding-left: 15%;
+    padding-bottom: 8%;
+    border-bottom: 4px solid rgb(14, 137, 86);
+}
+.A .icons{
+    padding-right: 15%;
+    padding-left: 22%;
+    padding-bottom: 6%;
+    padding-top: 6%;
+}
+img{
+    height: 100%;
+    width: 100%;
+    padding-left: 10%;
+}
+.A h4{
+    font-size: 22px;
+    padding-bottom: 8%;
+    padding-left: 30%;
+    padding-right: 18%;
+    font-weight: 700;
+}
+.menu{
+    position: absolute;
+}
+.navbar ul li a{
+    color: white;
+    font-weight: 700;
+}
+.navbar-nav{
+    padding-top: 800%;
+    padding-left: 110%;
+    
+}
+.contact{
+    margin-top: 90%;
+    margin-left: 8%;
+    position: absolute;
+    padding: 1%;
+}
+.contact .row #loc{
+    height: 90%;
+    width: 20%;
+    padding-bottom: 1%;
+}
+.contact .row #call{
+    height: 90%;
+    width: 20%;
+    margin-bottom: 2%;
+
+}
+.contact .row #mail{
+    height: 90%;
+    width: 20%;
+}
+.row{
+    margin: 0%;
+    padding: 0%;
+}
+.contact .row h5{
+    text-align: left;
+    padding-left: 0%;
+    padding: 0%;
+    margin-left: 0%;
+}
